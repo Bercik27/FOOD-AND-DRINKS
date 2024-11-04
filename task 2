@@ -5,42 +5,42 @@
         <name>Wok noodles</name>
         <type>Main dish</type>
         <price>40 PLN</price>
-        <calories>550 kcal</calories>
+        <country>China</country>
     </dish>
 
     <dish>
         <name>Spring rolls</name>
         <type>Side</type>
         <price>25 PLN</price>
-        <calories>240 kcal</calories>
+        <country>Vietnam</country>
     </dish>
 
     <dish>
         <name>Miso soup</name>
         <type>Soup</type>
         <price>35 PLN</price>
-        <calories>150 kcal</calories>
+        <country>Japan</country>
     </dish>
 
     <dish>
         <name>Bingsu</name>
         <type>Dessert</type>
         <price>20 PLN</price>
-        <calories>200 kcal</calories>
+        <country>Korea</country>
     </dish>
 
     <dish>
         <name>Kimchi jiggae</name>
         <type>Soup</type>
         <price>20 PLN</type>
-        <calories>250 kcal</calories>
+        <country>Korea</country>
     </dish>
 
     <dish>
         <name>Ramune</name>
         <type>Drink</type>
         <price>12 PLN</price>
-        <calories>100 kcal</calories>
+        <country>Japan</country>
     </dish>
 
 </restaurantMenu>
