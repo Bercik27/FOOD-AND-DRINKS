@@ -6,7 +6,7 @@
         <name>Wok noodles</name>
         <type>Main dish</type>
         <price>40 PLN</price>
-        <diet>Vegan</diet>
+        <country>China</country>
         <macros>
             <calories>550 kcal</calories>
             <protein>20g</protein>
@@ -21,7 +21,7 @@
         <name>Spring rolls</name>
         <type>Side</type>
         <price>25 PLN</price>
-        <diet>Bio</diet>
+        <country>Vietnam</country>
         <macros>
             <calories>320 kcal</calories>
             <protein>15g</protein>
@@ -36,7 +36,7 @@
         <name>Miso soup</name>
         <type>Soup</type>
         <price>35 PLN</price>
-        <diet>Vegan</diet>
+        <country>Japan</country>
         <macros>
             <calories>150 kcal</calories>
             <protein>8g</protein>
@@ -51,7 +51,7 @@
         <name>Bingsu</name>
         <type>Dessert</type>
         <price>20 PLN</price>
-        <diet>Vegeterian</diet>
+        <country>Korea</country>
         <macros>
             <calories>5 kcal</calories>
             <protein>3g</protein>
@@ -66,7 +66,7 @@
         <name>Kimchi jiggae</name>
         <type>Soup</type>
         <price>20 PLN</price>
-        <diet>Bio</diet>
+        <country>Korea</country>
         <macros>
             <calories>200 kcal</calories>
             <protein>27g</protein>
@@ -81,7 +81,7 @@
         <name>Ramune</name>
         <type>Drink</type>
         <price>12 PLN</price>
-        <diet>Bio</diet>
+        <country>Japan</country>
          <macros>
             <calories>10 kcal</calories>
             <protein>0g</protein>
