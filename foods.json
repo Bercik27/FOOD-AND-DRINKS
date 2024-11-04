@@ -1,0 +1,10 @@
+{
+    "name": "Pizza",
+    "placeoforigin": "Italy",
+    "centuryofinventionBC": 6,
+    "isvegan": true,
+    "containsnuts": false,
+    "priceUSD": 15.50,
+    "popularintheusa": true,
+    "standardsizecm": 35
+    }
