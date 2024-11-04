@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<restaurantMenu>
+
+    <dish>
+        <name>Wok noodles</name>
+        <type>Main dish</type>
+        <price>40 PLN</price>
+        <calories>550 kcal</calories>
+    </dish>
+
+    <dish>
+        <name>Spring rolls</name>
+        <type>Side</type>
+        <price>25 PLN</price>
+        <calories>240 kcal</calories>
+    </dish>
+
+    <dish>
+        <name>Miso soup</name>
+        <type>Soup</type>
+        <price>35 PLN</price>
+        <calories>150 kcal</calories>
+    </dish>
+
+    <dish>
+        <name>Bingsu</name>
+        <type>Dessert</type>
+        <price>20 PLN</price>
+        <calories>200 kcal</calories>
+    </dish>
+
+    <dish>
+        <name>Kimchi jiggae</name>
+        <type>Soup</type>
+        <price>20 PLN</type>
+        <calories>250 kcal</calories>
+    </dish>
+
+    <dish>
+        <name>Ramune</name>
+        <type>Drink</type>
+        <price>12 PLN</price>
+        <calories>100 kcal</calories>
+    </dish>
+
+</restaurantMenu>
