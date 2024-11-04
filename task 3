@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<restaurantMenu>
+
+    <dish>
+
+        <name>Wok noodles</name>
+        <type>Main dish</type>
+        <price>40 PLN</price>
+        <diet>Vegan</diet>
+        <macros>
+            <calories>550 kcal</calories>
+            <protein>20g</protein>
+            <fat>25g</fat>
+            <carbs>40g</carbs>
+        </macros>
+
+    </dish>
+
+    <dish>
+
+        <name>Spring rolls</name>
+        <type>Side</type>
+        <price>25 PLN</price>
+        <diet>Bio</diet>
+        <macros>
+            <calories>320 kcal</calories>
+            <protein>15g</protein>
+            <fat>20g</fat>
+            <carbs>30g</carbs>
+        </macros>
+
+    </dish>
+
+    <dish>
+
+        <name>Miso soup</name>
+        <type>Soup</type>
+        <price>35 PLN</price>
+        <diet>Vegan</diet>
+        <macros>
+            <calories>150 kcal</calories>
+            <protein>8g</protein>
+            <fat>14g</fat>
+            <carbs>14g</carbs>
+        </macros>
+
+    </dish>
+
+    <dish>
+
+        <name>Bingsu</name>
+        <type>Dessert</type>
+        <price>20 PLN</price>
+        <diet>Vegeterian</diet>
+        <macros>
+            <calories>5 kcal</calories>
+            <protein>3g</protein>
+            <fat>2g</fat>
+            <carbs>8g</carbs>
+        </macros>
+
+    </dish>
+
+    <dish>
+
+        <name>Kimchi jiggae</name>
+        <type>Soup</type>
+        <price>20 PLN</price>
+        <diet>Bio</diet>
+        <macros>
+            <calories>200 kcal</calories>
+            <protein>27g</protein>
+            <fat>29g</fat>
+            <carbs>18g</carbs>
+        </macros>
+
+    </dish>
+
+    <dish>
+
+        <name>Ramune</name>
+        <type>Drink</type>
+        <price>12 PLN</price>
+        <diet>Bio</diet>
+         <macros>
+            <calories>10 kcal</calories>
+            <protein>0g</protein>
+            <fat>0g</fat>
+            <carbs>27g</carbs>
+        </macros>
+
+    </dish>
+
+</restaurantMenu>
