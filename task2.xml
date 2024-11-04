@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<restaurantMenu>
+
+    <dish>
+        <name>Wok noodles</name>
+        <type>Main dish</type>
+        <price>40 PLN</price>
+        <country>China</country>
+    </dish>
+
+    <dish>
+        <name>Spring rolls</name>
+        <type>Side</type>
+        <price>25 PLN</price>
+        <country>Vietnam</country>
+    </dish>
+
+    <dish>
+        <name>Miso soup</name>
+        <type>Soup</type>
+        <price>35 PLN</price>
+        <country>Japan</country>
+    </dish>
+
+    <dish>
+        <name>Bingsu</name>
+        <type>Dessert</type>
+        <price>20 PLN</price>
+        <country>Korea</country>
+    </dish>
+
+    <dish>
+        <name>Kimchi jiggae</name>
+        <type>Soup</type>
+        <price>20 PLN</type>
+        <country>Korea</country>
+    </dish>
+
+    <dish>
+        <name>Ramune</name>
+        <type>Drink</type>
+        <price>12 PLN</price>
+        <country>Japan</country>
+    </dish>
+
+</restaurantMenu>
